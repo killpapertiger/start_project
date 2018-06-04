@@ -1,0 +1,54 @@
+2018-06-03T03:15:47.190Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-03T03:15:47.196Z - normal: checking language setting...
+2018-06-03T03:15:47.197Z - normal: Language: zh
+2018-06-03T03:15:49.956Z - success: protocol editor-framework registered
+2018-06-03T03:15:49.956Z - success: protocol app registered
+2018-06-03T03:15:49.956Z - success: protocol theme registered
+2018-06-03T03:15:49.956Z - success: protocol packages registered
+2018-06-03T03:15:49.957Z - success: protocol unpack registerred
+2018-06-03T03:15:49.957Z - success: protocol disable-commonjs registerred
+2018-06-03T03:15:50.126Z - normal: connected!
+2018-06-03T03:15:50.139Z - normal: Check project F:\Users\kong\Documents\start_project\start_project
+2018-06-03T03:15:50.143Z - normal: Initializing Cocos2d
+2018-06-03T03:15:50.574Z - normal: Initializing Asset Database
+2018-06-03T03:15:50.644Z - success: protocol uuid registerred
+2018-06-03T03:15:50.644Z - success: protocol db registerred
+2018-06-03T03:15:50.645Z - success: protocol thumbnail registerred
+2018-06-03T03:15:50.645Z - normal: Loading editor/builtin packages
+2018-06-03T03:15:50.686Z - success: anysdk loaded
+2018-06-03T03:15:50.915Z - success: assets loaded
+2018-06-03T03:15:50.918Z - success: builder loaded
+2018-06-03T03:15:50.921Z - success: cocos-analytics loaded
+2018-06-03T03:15:50.926Z - success: console loaded
+2018-06-03T03:15:50.996Z - success: fb-instant-games loaded
+2018-06-03T03:15:51.001Z - success: hierarchy loaded
+2018-06-03T03:15:51.005Z - success: inspector loaded
+2018-06-03T03:15:51.008Z - success: keystore loaded
+2018-06-03T03:15:51.014Z - success: node-library loaded
+2018-06-03T03:15:51.017Z - success: package-asset loaded
+2018-06-03T03:15:51.020Z - success: preferences loaded
+2018-06-03T03:15:51.023Z - success: project-exporter loaded
+2018-06-03T03:15:51.047Z - success: project-importer loaded
+2018-06-03T03:15:51.051Z - success: project-settings loaded
+2018-06-03T03:15:51.055Z - success: ui-kit loaded
+2018-06-03T03:15:51.058Z - success: ui-grid loaded
+2018-06-03T03:15:51.063Z - success: scene loaded
+2018-06-03T03:15:51.065Z - success: sprite-editor loaded
+2018-06-03T03:15:51.070Z - success: store loaded
+2018-06-03T03:15:51.076Z - success: timeline loaded
+2018-06-03T03:15:51.077Z - normal: Loading builtin packages
+2018-06-03T03:15:51.080Z - success: asset-db-debugger loaded
+2018-06-03T03:15:51.093Z - success: code-editor loaded
+2018-06-03T03:15:51.094Z - success: color-picker loaded
+2018-06-03T03:15:51.098Z - success: package-manager loaded
+2018-06-03T03:15:51.105Z - success: sdkbox loaded
+2018-06-03T03:15:51.109Z - success: tester loaded
+2018-06-03T03:15:51.112Z - success: ui-kit-preview-extra loaded
+2018-06-03T03:15:51.114Z - success: ui-kit-preview loaded
+2018-06-03T03:15:51.117Z - success: ui-tree loaded
+2018-06-03T03:15:53.236Z - normal: Initializing project F:\Users\kong\Documents\start_project\start_project
+2018-06-03T03:15:53.240Z - normal: Loading packages
+2018-06-03T03:15:53.248Z - normal: Watching packages
+2018-06-03T03:15:53.269Z - normal: Run Application
+2018-06-03T03:15:54.275Z - success: preview server running at http://localhost:7456
+2018-06-03T03:16:04.598Z - normal: 1.9.1
